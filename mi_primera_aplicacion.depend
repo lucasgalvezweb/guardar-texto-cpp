@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588181788 source:/home/user24/Documents/cmamut/mi_primera_aplicacion/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
